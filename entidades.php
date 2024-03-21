@@ -49,7 +49,7 @@ private $tipo_beneficiario;
                 echo "hello: " . $fila->nombre;
                 echo "hello: " . $fila->apellido;
             }
-    }
+    }//consultarBeneficiario
             
            
 }
