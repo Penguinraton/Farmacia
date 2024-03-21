@@ -1,0 +1,33 @@
+.contenedor {
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #fff;
+    border-width: 1px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    padding: 20px;
+    width: 25vw;
+    height: fit-content;
+  }
+
+  
+  .footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+  body {
+    min-height: 100vh;
+    margin: 0;
+    position: relative;
+    border: red solid;
+  }
+  footer {
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin-top: auto;
+    height: 10%;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
