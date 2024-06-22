@@ -1,0 +1,8 @@
+<?php 
+include "funcionario.php";
+
+
+
+$nuevaconsulta = new Funcionario;
+$consultafuncionario = $nuevaconsulta->selectFuncionario();
+?>
